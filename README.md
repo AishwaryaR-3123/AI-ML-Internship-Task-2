@@ -1,5 +1,6 @@
 # AI & ML Internship Task-2
-Task 2: Exploratory Data Analysis (EDA)
+Task 2: Exploratory Data Analysis (EDA) on Students Habits Vs Academic Performance Dataset
+
 Steps involved :
 
 - Import the Titanic Dataset from Kaggle
