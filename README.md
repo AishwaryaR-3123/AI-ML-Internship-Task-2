@@ -3,7 +3,7 @@ Task 2: Exploratory Data Analysis (EDA) on Students Habits Vs Academic Performan
 
 Steps involved :
 
-- Import the Titanic Dataset from Kaggle
+- Import the Dataset from Kaggle
 - Import necessary libraries (pandas,numpy,seaborn,matplotlib,sklearn)
 - Read the dataset (.csv file)
 - Understanding the Data
